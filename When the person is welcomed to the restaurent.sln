@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "When the person is welcomed to the restaurent", "When the person is welcomed to the restaurent\When the person is welcomed to the restaurent.csproj", "{F92E16AB-7BB6-476F-B361-8B20B453074D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92E16AB-7BB6-476F-B361-8B20B453074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92E16AB-7BB6-476F-B361-8B20B453074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92E16AB-7BB6-476F-B361-8B20B453074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92E16AB-7BB6-476F-B361-8B20B453074D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD9C19D-00A8-4A42-9917-78A44371B814}
+	EndGlobalSection
+EndGlobal
